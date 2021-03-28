@@ -1,0 +1,14 @@
+/build
+/node_modules
+
+/src/static/prodWallet.json
+/src/static/testWallet.json
+/src/filler.js
+
+.env
+yarn.lock
+package-json.lock
+yarn-error.log
+wallet.json
+.DS_Store
+.vscode
